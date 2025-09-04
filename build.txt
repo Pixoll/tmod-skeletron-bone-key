@@ -1,0 +1,8 @@
+displayName = Skeletron drops Bone Key in daytime
+author = Pixoll
+version = 1.0
+homepage = https://github.com/Pixoll/tmod-skeletron-bone-key
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, .git/*. .github/*, obj/*, bin/*

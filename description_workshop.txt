@@ -1,0 +1,3 @@
+Allows for Skeletron to drop the Bone Key when defeated during daytime.
+
+Source code at [url=https://github.com/Pixoll/tmod-skeletron-bone-key] GitHub [/url]
